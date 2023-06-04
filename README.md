@@ -15,3 +15,6 @@ The method was tested by artificially raising eye pressures of 24 pig eyeballs, 
 
 ### Results on test-set
 ![IOP confusion matrices and results](results.png)
+
+### License
+This project is licensed under the terms of the [MIT license](https://github.com/zeevikal/speckles-classification/blob/master/LICENSE).
