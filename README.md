@@ -1,5 +1,5 @@
 # iop-pigeye-speckle
-Remote and low-cost intraocular pressure monitoring by deep learning of speckle patterns paper - python implementation
+[Remote and low-cost intraocular pressure monitoring by deep learning of speckle patterns](https://doi.org/10.1117/1.JBO.29.3.037003) paper - Python implementation
 
 ### Abstract
 Intraocular pressure (IOP) measurements comprise an essential tool in modern medicine for the early diagnosis of glaucoma, the second leading cause of human blindness. The world's highest prevalence of glaucoma is in low-income countries. 
